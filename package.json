@@ -26,7 +26,7 @@
     "striptags": "^3.1.1",
     "turndown": "^4.0.2",
     "turndown-plugin-gfm": "^1.0.2",
-    "typescript": "^3.8.3",
+    "typescript": "^3.9.10",
     "uws": "9.14.0",
     "xregexp": "^4.2.0"
   },
