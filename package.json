@@ -20,7 +20,7 @@
     "feed-read": "^0.0.1",
     "fs-extra": "^7.0.1",
     "html2plaintext": "^2.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.1",
     "node-fetch": "^2.6.1",
     "pretty-ms": "^3.0.0",
     "striptags": "^3.1.1",
